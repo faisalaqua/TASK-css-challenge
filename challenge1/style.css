@@ -1,0 +1,26 @@
+.size-image {
+  width: 30%;
+}
+
+.center-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 80vw;
+}
+
+body {
+  background-color: rgb(34, 2, 34);
+}
+
+h1 {
+  color: white;
+  font-family: "Italianno", cursive;
+}
+
+p {
+  color: white;
+  text-align: center;
+}

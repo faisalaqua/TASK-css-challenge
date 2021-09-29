@@ -1,0 +1,36 @@
+body {
+  background-image: url("../assets/pokemon-bg.jpg");
+}
+
+.center-pika {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 25vw;
+  height: 15vw;
+  background-color: white;
+  border-radius: 50px;
+  margin: auto;
+  position: absolute;
+  top: 450px;
+  right: 700px;
+}
+
+.image-size {
+  width: 150px;
+  border-radius: 50%;
+  display: flex;
+  position: relative;
+  bottom: 30px;
+}
+
+h1 {
+  position: relative;
+  bottom: 20px;
+}
+
+p {
+  position: relative;
+  bottom: 30px;
+}
